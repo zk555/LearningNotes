@@ -1,0 +1,9 @@
+具体流程分析（仅供有兴趣的同学参考，若无兴趣则可以跳过，因为实际意义不大）：
+https://coolshell.cn/articles/9606.html
+https://www.jianshu.com/p/1e9cf0ac07f4
+https://www.jianshu.com/p/619a8efcf589
+https://blog.csdn.net/loveliness_peri/article/details/81092360
+https://cloud.tencent.com/developer/article/1120823
+https://www.cnblogs.com/developer_chan/p/10450908.html
+https://www.yuque.com/dangxianyuyudaoniu/kclb/2019
+
