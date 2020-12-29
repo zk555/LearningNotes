@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9120adb5-45b0-4bfe-8caf-ba4f0b36b740" name="Default Changelist" comment="" />
+    <list default="true" id="9120adb5-45b0-4bfe-8caf-ba4f0b36b740" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/从0开始冲击P7模块思维导图/jvm优化实战.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/从0开始冲击P7模块思维导图/jvm优化实战.drawio" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +36,6 @@
             <path>
               <item name="LearningNotes" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearningNotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearningNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="从 0 开始带你成为JVM实战高手" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,13 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609159821884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="数据结构+jvm">
+      <created>1609202210224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609202210224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2166532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2166532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -104,7 +110,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="SOQL Query" order="8" />
       <window_info anchor="bottom" id="Log Analyzer" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
