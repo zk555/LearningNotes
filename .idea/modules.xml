@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningNotes.iml" filepath="$PROJECT_DIR$/.idea/LearningNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/springboot-mybatis.iml" />
     </modules>
   </component>
 </project>

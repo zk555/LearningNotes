@@ -1,0 +1,44 @@
+@startuml
+interface lock{
+
+}
+
+Class ReentranLock {
+    lock()
+    unlock()
+}
+Class Sync{
+    lock()
+    tryRelease()
+    nonfairTryAcquire()
+}
+
+Class AbstractQueuedSynchronizer{
+    lock()
+    tryRelease()
+    nonfairTryAcquire()
+}
+
+
+Class FairSync{
+    lock()
+    tryRelease()
+    TryAcquire()
+}
+
+Class NonFairSync{
+    lock()
+    TryAcquire()
+}
+
+lock <|.. ReentranLock
+
+Sync <|.. ReentranLock
+
+Sync <|.. NonFairSync
+
+Sync <|.. FairSync
+
+AbstractQueuedSynchronizer <|--Sync
+
+@enduml

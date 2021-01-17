@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9120adb5-45b0-4bfe-8caf-ba4f0b36b740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/系列学习记录/流程图/lock类图.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/系列学习记录/流程图/锁流程图.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/从0开始冲击P7模块思维导图/jvm优化实战.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/从0开始冲击P7模块思维导图/jvm优化实战.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识点大纲/从0开始冲击P7技能知识点大纲.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/知识点大纲/从0开始冲击P7技能知识点大纲.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识点思维导图/jvm优化实战.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/知识点思维导图/jvm优化实战.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识点思维导图/mysql.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/知识点思维导图/mysql.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识点思维导图/并发编程.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/知识点思维导图/并发编程.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/java/com/forezp/SpringbootMybatisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/java/com/forezp/gc/FullGC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/java/com/forezp/gc/Object2Old.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/java/com/forezp/gc/YoungGc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/java/com/forezp/gc/young2old.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系列学习记录/代码/jvm优化案例/springboot-mybatis/src/test/java/com/forezp/SpringbootMybatisApplicationTests.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,52 +30,126 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1mFSHFNKV4ekctPhdtpifLWSPd7" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LearningNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearningNotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/WorkSpace/learning" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\workSpace\LearningNotes\系列学习记录\代码\jvm优化案例" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.oldGc">
+    <configuration name="Young2OldGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.forezp.gc.Young2OldGC" />
+      <module name="springboot-mybatis" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=10485760 -XX:MaxNewSize=10485760 -XX:InitialHeapSize=20971520 -XX:MaxHeapSize=20971520 -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=10485760 -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forezp.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YoungGc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.forezp.gc.YoungGc" />
+      <module name="springboot-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forezp.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oldGc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../JDK/1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.forezp.gc.oldGc" />
+      <module name="springboot-mybatis" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=104857600 -XX:MaxNewSize=104857600 -XX:InitialHeapSize=209715200 -XX:MaxHeapSize=209715200 -XX:SurvivorRatio=2 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=20971520 -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails -XX:+PrintGCTimeStamps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forezp.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.forezp.SpringbootMybatisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.YoungGc" />
+      <item itemvalue="Application.Young2OldGC" />
+      <item itemvalue="Application.oldGc" />
+      <item itemvalue="Spring Boot.SpringbootMybatisApplication" />
+    </list>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.oldGc" />
+        <item itemvalue="Application.Young2OldGC" />
+        <item itemvalue="Application.YoungGc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -74,6 +163,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609117013251</updated>
+      <workItem from="1609566769760" duration="15843000" />
+      <workItem from="1610462689666" duration="20069000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构+jvm">
       <created>1609159821884</created>
@@ -89,56 +180,202 @@
       <option name="project" value="LOCAL" />
       <updated>1609202210224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="数据结构+jvm">
+      <created>1609262874935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609262874935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="中间件+ JVm">
+      <created>1609682036075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609682036076</updated>
+    </task>
+    <task id="LOCAL-00005" summary="补充笔记">
+      <created>1609692691717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609692691717</updated>
+    </task>
+    <task id="LOCAL-00006" summary="补充笔记">
+      <created>1609692882973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609692882973</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JVM">
+      <created>1609868502177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609868502177</updated>
+    </task>
+    <task id="LOCAL-00008" summary="JVM">
+      <created>1610184194879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610184194879</updated>
+    </task>
+    <task id="LOCAL-00009" summary="锁">
+      <created>1610299206067</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610299206067</updated>
+    </task>
+    <task id="LOCAL-00010" summary="锁">
+      <created>1610380634339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610380634339</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mysql">
+      <created>1610383359517</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610383359517</updated>
+    </task>
+    <task id="LOCAL-00012" summary="更新阶段学习收获">
+      <created>1610384136320</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610384136320</updated>
+    </task>
+    <task id="LOCAL-00013" summary="并发编程">
+      <created>1610471539514</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610471539514</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2166532" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3285968" />
-      <window_info anchor="bottom" id="SOQL Query" order="8" />
-      <window_info anchor="bottom" id="Log Analyzer" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Json Parser" order="8" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="数据结构+jvm" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构+jvm" />
+    <MESSAGE value="中间件+ JVm" />
+    <MESSAGE value="补充笔记" />
+    <MESSAGE value="JVM" />
+    <MESSAGE value="锁" />
+    <MESSAGE value="mysql" />
+    <MESSAGE value="更新阶段学习收获" />
+    <MESSAGE value="并发编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="并发编程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1609087933425">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610732895020">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609087933425" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1609087985428">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610732895020" />
+    <state x="443" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610380204523">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609087985428" />
+    <state x="443" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610380204523" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610732333850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1610732333850" />
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1610472731234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1610472731234" />
+    <state x="1771" y="0" key="CommitChangelistDialog2" timestamp="1610900068605">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1771" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610900068605" />
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610471537308" />
+    <state x="129" y="61" width="1092" height="608" key="DiffContextDialog" timestamp="1610379750264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" width="1092" height="608" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610379750264" />
+    <state x="2017" y="154" key="FileChooserDialogImpl" timestamp="1610890982312">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2017" y="154" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610890982312" />
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610732427921" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1610794711518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610794711518" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1610794711518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610794711518" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1610794711518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610794711518" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1610794711518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610794711518" />
+    <state x="323" y="68" key="NewModule_or_Project.wizard" timestamp="1610384325844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1610384325844" />
+    <state x="1776" y="0" key="SettingsEditor" timestamp="1610882461817">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1776" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610882461817" />
+    <state x="292" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610732404002" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1610727120904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1610727120904" />
+    <state x="529" y="285" key="VCS.ChangelistChooser" timestamp="1610379742100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="285" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1610379742100" />
+    <state x="1753" y="143" key="Vcs.Push.Dialog.v2" timestamp="1610900049996">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1753" y="143" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610900049996" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610471544971" />
+    <state x="303" y="90" width="759" height="548" key="find.popup" timestamp="1610723392715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="90" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610723392715" />
+    <state x="1911" y="237" key="git4idea.merge.GitPullDialog" timestamp="1610900074616">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1911" y="237" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610900074616" />
+    <state x="388" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1610723261020" />
+    <state x="1783" y="234" key="new project wizard" timestamp="1610890952727">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1783" y="234" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610890952727" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1610723580533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610723580533" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610383780765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610383780765" />
   </component>
 </project>

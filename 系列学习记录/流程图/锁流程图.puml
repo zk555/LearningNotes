@@ -1,0 +1,10 @@
+@startuml
+ReentrantLock -> NofairSync: lock.lock()
+NofairSync --> Sync:
+
+Sync -> NofairSync: lock()
+NofairSync --> AQS: acquire
+AQS --> AQS: addWaiter
+AQS --> NofairSync:tryAcquire
+NofairSync --> AQS: NofairSync
+@enduml
